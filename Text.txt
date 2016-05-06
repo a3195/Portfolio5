@@ -1,4 +1,0 @@
-Hello
-Added new line in newBranch
-Added new line to merge
-Added new line again
