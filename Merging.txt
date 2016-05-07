@@ -1,2 +1,0 @@
-Add file to merge into master
-Added new line to test merging diff
